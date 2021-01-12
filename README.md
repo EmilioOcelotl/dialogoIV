@@ -10,13 +10,29 @@ Reflexiones expresadas en [Aproximaciones a la música electroacústica](https:/
 
 ## 1. PiranhaLab
 
+Distinción usuario/desarrollador
+
+Herramientas personalizadas
+
 Espacios virtuales
 
-## 2. Música por computadora y Live Coding
+## 2. Live Coding. Música e imagen por medio de la computadora. 
 
-Interfaces textuales 
+Interfaces textuales
 
-## 3. THREE.studies
+Sistemas mixtos personalizados. 
+
+Experimentación musical
+
+Algorave, pista de baile y el cuerpo en la música por computadora. 
+
+## 3. setInterval()
+
+Primer intento de consolidar una experiencia híbrida.
+
+Materiales sintéticos que vinculan el espacio virtual con el espacio físico. 
+
+## 4. THREE.studies
 
 Trabajo en progreso. 
 
@@ -26,7 +42,7 @@ Música e imagen para el navegador.
 
 Última instancia: [THREE.studies para cellista, live coder y navegador](https://github.com/EmilioOcelotl/THREE.studies/blob/main/threecln/README.md)
 
-## 4. Anti 
+## 5. Anti 
 
 Trabajo en Progreso.
 
