@@ -48,7 +48,7 @@ Meditaciones en torno a las nuevas modalidades de creación > Espacios imaginari
 - Relación entre imagen y sonido integrados en el navegador.
 - Limitaciones técnicas: Tal vez en 10 años... 
 
-[open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/three.png)
+![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/three.png)
 
 ## THREE.studies
 
