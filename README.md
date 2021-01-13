@@ -39,7 +39,7 @@ Meditaciones en torno a las nuevas modalidades de creación > Espacios imaginari
   - Ciclo de conciertos Edges.
   - Otros eventos
 
-![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/set.png)
+![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/ban2.png)
 
 ## setInterval()
 
