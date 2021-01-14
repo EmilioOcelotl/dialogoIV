@@ -9,6 +9,7 @@
 - Práctica musical por medio de la computadora. 
 - Reflexiones expresadas en [Aproximaciones a la música electroacústica](https://zenodo.org/record/3715410) - Alejandro Franco Briones, Raúl Dávila y Emilio Ocelotl. Coordinación: Rossana Lara.
 - Curiosidad por articular música/sonido con imagen y cuerpo. 
+- Más recientemente: sintetizadores audiovisuales en el navegador. 
 
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/box.png)
 
@@ -67,6 +68,7 @@
 ## Anti 
 
 - Trabajo en Progreso.
+- Integración con el proyecto de investigación en curso. 
 - Giros, cruces y desplazamientos de conocimiento, estéticas y prácticas. 
 - Información, sonido e imagenes autorreferenciales. 
 - Responsabilidad en el uso de tecnologías implica conocimiento de las mismas.
