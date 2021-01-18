@@ -1,4 +1,4 @@
-# Nuevas Modalidades
+# Dialogo IV 
 
 - Presentación: [Emilio Ocelotl](https://emilioocelotl.github.io/)
 
@@ -10,18 +10,20 @@
 - Reflexiones expresadas en [Aproximaciones a la música electroacústica](https://zenodo.org/record/3715410) - Alejandro Franco Briones, Raúl Dávila y Emilio Ocelotl. Coordinación: Rossana Lara.
 - Curiosidad por articular música/sonido con imagen y cuerpo. 
 - Más recientemente: sintetizadores audiovisuales en el navegador. 
+- Entramado de repositorios 
 
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/box.png)
 
 ## Live Coding. Música e imagen por medio de la computadora. 
 
-- Live Coding ¿Qué es? > 
+- Live Coding ¿Qué es? > Video muestra 
 - Interpretación, composición, improvisación e instrumento. 
 - [Live Coding en México](http://www.hernanivillasenor.com/archivos/html/livecoding.html) - Hernani Villaseñor
 - Interfaces textuales.
 - Sistemas mixtos personalizados. 
 - Experimentación musical
 - Algorave, pista de baile y el cuerpo en la música por computadora.
+
 
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/dist.png)
 
@@ -42,6 +44,7 @@
   - Ciclo de conciertos Edges.
   - Otros eventos
 
+
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/ban2.png)
 
 ## setInterval()
@@ -52,6 +55,7 @@
 - Limitaciones técnicas: Tal vez en 10 años...
 - Señales de control que viajan por la web.
 - Expresión del movimiento corporal en un espacio virtual > Antecedentes de THREE.
+
 
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/three.png)
 
@@ -66,6 +70,8 @@
 - Feedback en la interpretación: imagen audioreactiva y sonido conducido por instrucciones tridimensionales. 
 
 ## Anti 
+
+[Anti](https://github.com/EmilioOcelotl/Anti)  
 
 - Trabajo en Progreso.
 - Integración con el proyecto de investigación en curso. 
