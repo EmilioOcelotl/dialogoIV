@@ -38,8 +38,8 @@
   - Discusión sobre la distinción usuario / desarrollador ¿ Cómo se lleva esta discusión a la música por computadora? 
 - Talleres en CCD
 - Panorama
-  - (Pruebas Proféticas)[https://youtu.be/VP2T13l7-CQ?t=695]
-  - (Distopía)[https://youtu.be/sLmT0AkvmNo?t=464]
+  - [Pruebas Proféticas](https://youtu.be/VP2T13l7-CQ?t=695)
+  - [Distopía](https://youtu.be/sLmT0AkvmNo?t=464)
   - Implicaciones tecno-sociales.
   - Espacios de reconocimiento cuando no hay espacios.
   - Espacios y eventos que se plantean desde lo colectivo. 
