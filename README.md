@@ -1,5 +1,7 @@
 # Dialogo IV 
 
+[Diálogo VI](https://www.youtube.com/watch?v=qvDZbupFVCQ) - Coloquio Salvador Contreras. Arte sonoro y creación musical en México
+
 - Presentación: [Emilio Ocelotl](https://emilioocelotl.github.io/)
 
 - Meditaciones en torno a las nuevas modalidades de creación > Espacios imaginarios que se habitan desde múltiples perspectivas artísticas o de investigación y que coinciden con la música.
@@ -50,7 +52,8 @@
 
 ## setInterval()
 
-- [setInterval()](https://www.youtube.com/embed/1rTPafN-EBQ)
+[setInterval()](https://www.youtube.com/embed/1rTPafN-EBQ)
+
 - Primer intento de consolidar una experiencia híbrida.
 - Materiales sintéticos que vinculan el espacio virtual con el espacio físico. 
 - Relación entre imagen y sonido integrados en el navegador.
@@ -58,12 +61,12 @@
 - Señales de control que viajan por la web.
 - Expresión del movimiento corporal en un espacio virtual > Antecedentes de THREE.
 
-
 ![open](https://github.com/EmilioOcelotl/nuevasModalidades/blob/main/img/threecln.png)
 
 ## THREE.studies
 
-- [threecln](http://threecln.piranhalab.cc)
+[threecln](http://threecln.piranhalab.cc)
+
 - Ideas que surgen de la inmersión en las tecnologías del espacio virtual. 
 - Música e imagen para el navegador.
 - Multicanal virtual anclado al punto de vista de una cámara. 
@@ -78,6 +81,7 @@
 [Anti](https://github.com/EmilioOcelotl/Anti)  
 
 - Trabajo en Progreso.
+- Sistemas interactivos en pequeñas computadoras > sistemas interactivos en el navegador. 
 - Integración con el proyecto de investigación en curso. 
 - Giros, cruces y desplazamientos de conocimiento, estéticas y prácticas. 
 - Información, sonido e imagenes autorreferenciales. 
