@@ -50,6 +50,7 @@
 
 ## setInterval()
 
+- [setInterval()](https://www.youtube.com/embed/1rTPafN-EBQ)
 - Primer intento de consolidar una experiencia híbrida.
 - Materiales sintéticos que vinculan el espacio virtual con el espacio físico. 
 - Relación entre imagen y sonido integrados en el navegador.
